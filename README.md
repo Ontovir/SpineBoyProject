@@ -36,4 +36,8 @@
 3. Прыжок - "Space"
 
 ## Получившийся результат:
+### Скриншоты
 <a href="https://ibb.co/SV7DfN0"><img src="https://i.ibb.co/SV7DfN0/1.png" alt="1" border="0"></a> <a href="https://ibb.co/cJRRQvy"><img src="https://i.ibb.co/cJRRQvy/2.png" alt="2" border="0"></a> <a href="https://ibb.co/1qphNJk"><img src="https://i.ibb.co/1qphNJk/3.png" alt="3" border="0"></a>
+### Видео
+https://user-images.githubusercontent.com/120922587/214321555-f40d5df0-f071-43b1-82bc-daa4b9573ba2.mp4
+
